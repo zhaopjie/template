@@ -1,0 +1,18 @@
+mysql:
+  account: qwerg
+  password: ""
+  addr: ""
+  databases: ""
+  param: ""
+  prefix: ""
+redis:
+  addr: localhost:6379
+  password: ""
+  db: 0
+kafka:
+  addrs: []
+log:
+  level: debug
+  out_path: ""
+core:
+  port: "8080"
